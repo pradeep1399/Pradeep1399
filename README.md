@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Pradeep from India.<br><br>- 🔭 I’m working as Backend Engineer<br>- 📚 I'm currently learning AWS<br>- ⚡ In my free time I playing chess<br>- 📫 How to reach me: <a href="mailto:pradeepverma1399@gmail.com" style="color: #1a73e8;">Email</a><br>- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/13WL7TMsU6gL2OjA5q7z18JthP_lztH4H/view" target="_blank">Resume</a></p>
+<p align="left">I'm Pradeep from India.<br><br>- 🔭 I’m working as Backend Engineer<br>- 📚 I'm currently learning AWS<br>- ⚡ In my free time I playing chess<br>- 📫 How to reach me: <a href="mailto:pradeepverma1399@gmail.com" style="color: #1a73e8;">Email</a><br>- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1PwSGGkqF987tSxWYfs4hvhtCS4BB9uAh/view?usp=drive_link" target="_blank">Resume</a></p>
 
 ###
 
