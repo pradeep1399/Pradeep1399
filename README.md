@@ -1,7 +1,7 @@
 
-###
-
-<div align="center">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="400"/>
+  <div id="badges">
    <a href="https://www.linkedin.com/in/pradeep1399/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -11,62 +11,47 @@
    <a href="https://leetcode.com/u/pradeep1399/">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
   </a>
+    <br/>
+    <img src="https://komarev.com/ghpvc/?username=pradeep1399&style=flat-square&color=blue" alt="profile-views"/>
+  </div>
 </div>
 
-###
+<hr/>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pradeep1399.Pradeep1399" alt="visitor badge"/>
-</div>
+### About me ✨ 
 
-###
+Hi! I'm Pradeep, a Software Engineer with a keen interest in exploring various technologies and methodologies, one at a time.  Currently, I’m engaged in developing microfinance applications for banking, specifically focusing on the Loan Origination Service (LOS) module. My role spans the entire SDLC, and I work with a range of technologies including JavaScript, Node.js, Express.js, LoopBack.io, PostgreSQL, and Oracle.In addition, I manage CI/CD pipelines and handle various issue management tasks to ensure smooth development and deployment processes.
+Outside of work, I'm a chess player, continually improving my strategic thinking and problem-solving skills.
 
-<h1 align="center">hey there 👋</h1>
+### Skills ⚡
+<p>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot logo"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL logo"/>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle logo"/>
+    <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL logo"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript logo"/>
+    <img src="https://img.shields.io/badge/REACT.JS-5cbfb9?style=for-the-badge&logo=react&logoColor=white" alt="React.js logo"/>
+    <img src="https://img.shields.io/badge/NODE.JS-41781a?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js logo"/>
+    <img src="https://img.shields.io/badge/LoopBack-0C7D85?style=for-the-badge&logo=loopback&logoColor=white" alt="LoopBack logo"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo"/>
+</p>
 
-###
+### Tools ⚒️
+<p>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo"/>
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA logo"/>
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT logo"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub logo"/>
+    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab logo"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes logo"/>
 
-<h3 align="left">👨🏻‍💻  About Me</h3>
 
-###
+</p>
 
-<p align="left">I'm Pradeep from India.<br><br>- 🔭 I’m working as Backend Engineer<br>- 📚 I'm currently learning AWS<br>- ⚡ In my free time I play chess<br>- 📫 How to reach me: <a href="mailto:pradeepverma1399@gmail.com" style="color: #1a73e8;">Email</a><br>- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1PwSGGkqF987tSxWYfs4hvhtCS4BB9uAh/view?usp=drive_link" target="_blank">Resume</a></p>
+### My Stats 🌱
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pradeep1399)](https://git.io/streak-stats)
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="kafka logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pradeep1399&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<br />
+Thanks for reading and have a nice day!
