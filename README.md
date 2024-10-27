@@ -20,7 +20,7 @@
 
 ### About me ✨ 
 
-Hi! I'm Pradeep, a Software Engineer with a keen interest in exploring various technologies and methodologies, one at a time.  Currently, I’m engaged in developing microfinance applications for banking, specifically focusing on the Loan Origination Service (LOS) module. My role spans the entire SDLC, and I work with a range of technologies including JavaScript, Node.js, Express.js, LoopBack.io, PostgreSQL, and Oracle.In addition, I manage CI/CD pipelines and handle various issue management tasks to ensure smooth development and deployment processes.
+Hi! I'm Pradeep, a Software Engineer with a keen interest in exploring various technologies and methodologies, one at a time.  Currently, I’m engaged in developing microfinance applications for banking, specifically focusing on the Loan Origination Service (LOS) module. My role spans the entire SDLC, and I work with a range of technologies including Java, Spring Boot, Hibernate, Node.js, PostgreSQL, and Oracle.In addition, I manage CI/CD pipelines and handle various issue management tasks to ensure smooth development and deployment processes.
 Outside of work, I'm a chess player, continually improving my strategic thinking and problem-solving skills.
 
 ### Skills ⚡
@@ -28,7 +28,6 @@ Outside of work, I'm a chess player, continually improving my strategic thinking
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"/>
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot logo"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL logo"/>
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle logo"/>
     <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL logo"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript logo"/>
     <img src="https://img.shields.io/badge/REACT.JS-5cbfb9?style=for-the-badge&logo=react&logoColor=white" alt="React.js logo"/>
