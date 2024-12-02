@@ -49,7 +49,7 @@ Hi! I'm Pradeep, a Software Engineer with a keen interest in exploring various t
 </p>
 
 ### My Stats 🌱
-[![Pradeep's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pradeep1399&theme=github)]
+![Pradeep's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pradeep1399&theme=github)
 
 
 <br />
