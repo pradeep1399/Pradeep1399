@@ -49,7 +49,8 @@ Hi! I'm Pradeep, a Software Engineer with a keen interest in exploring various t
 </p>
 
 ### My Stats 🌱
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pradeep1399)](https://git.io/streak-stats)
+[![Pradeep's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pradeep1399&theme=github)]
+
 
 <br />
 Thanks for reading and have a nice day!
