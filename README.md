@@ -21,6 +21,7 @@
 ### About me ✨ 
 
 Hi! I'm Pradeep, a Software Engineer with a keen interest in exploring various technologies and methodologies, one at a time.  Currently, I’m engaged in developing microfinance applications for banking, specifically focusing on the Loan Origination Service (LOS) module. My role spans the entire SDLC, and I work with a range of technologies including Java, Spring Boot, Hibernate, Node.js, PostgreSQL, and Oracle.In addition, I manage CI/CD pipelines and handle various issue management tasks to ensure smooth development and deployment processes.
+I’m currently learning more about software architecture and event-driven systems.
 
 ### Skills ⚡
 <p>
